@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/jonasknutsen/kladd#readme",
   "dependencies": {
+    "@fluentui/react": "^7.155.3",
+    "@uifabric/merge-styles": "^7.19.1",
+    "@uifabric/utilities": "^7.33.2",
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
