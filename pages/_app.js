@@ -1,16 +1,12 @@
 // import App from 'next/app'
-import { Fabric, initializeIcons } from "@fluentui/react"
+import 'tailwindcss/tailwind.css'
 import Layout from 'components/templates/Layout'
-
-initializeIcons()
 
 function MyApp({ Component, pageProps }) {
   return (
-    <Fabric>
-      <Layout>
-        <Component {...pageProps} />
-      </Layout>
-    </Fabric>
+    <Layout>
+      <Component {...pageProps} />
+    </Layout>
   )
 }
 

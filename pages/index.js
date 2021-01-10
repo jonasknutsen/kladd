@@ -1,7 +1,7 @@
 function HomePage() {
   return (
     <div>
-      Welcome to kladdd!
+      Welcome to kladd!
     </div>
   )
 }

@@ -1,6 +1,6 @@
 # kladd
 
-Content backend. Based on next.js, styled with Fluent UI
+Content backend. Based on next.js, styled with Tailwind
 
 ## Requirements
 node v10 or higher, and npm
